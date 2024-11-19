@@ -106,7 +106,7 @@ nav a {
 </head>
 <body>
     <header>
-        <h1>Your Fatima's Restaurant</h1>
+        <h1>Fatima's Restaurant</h1>
         <img src="https://marketplace.canva.com/EAFpeiTrl4c/1/0/1600w/canva-abstract-chef-cooking-restaurant-free-logo-9Gfim1S8fHg.jpg" alt="Restaurant Banner" style="width:100%; height:auto;">
     </header>
     <nav>
@@ -171,7 +171,7 @@ nav a {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Location - Your Restaurant Name</title>
+    <title>Location - Restaurant Name</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
